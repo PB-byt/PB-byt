@@ -303,7 +303,7 @@ def main():# Main function to run the app,Initialize session state for page navi
                     if col.button("details", key=f"pr_id_{p_card[j]['id']}"):
                         st.session_state.product=p_card[j]#["name"]
                         navigate("product_detail")
-             if st.button("<- Back to Catagories"):
+            if st.button("<- Back to Catagories"):
                     navigate('home')
         # Product Detail Page
         elif st.session_state.page == 'product_detail':
