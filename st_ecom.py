@@ -129,7 +129,7 @@ raw_product = [
     },
 {
         "id": 'sdnk01',
-        "name": "elegant white long necklace.",
+        "name": "White elegant white necklace.",
         "price": '139',
         "description": "pure multi size white beed piece , ideal with tradional\profesional looks ",
         "face_pic": "IMG-20250117-WA0032.jpg"
@@ -167,14 +167,14 @@ raw_product = [
         "name": "white long necklace.",
         "price": '70',
         "description": "same sizes beed chain",
-        "face_pic": "IMG-20250117-WA0028.jpg"
+        "face_pic": "IMG-20250117-WA0022.jpg"
     },
 {
         "id": 'mxnk10',
         "name": "transparent_white beed mixed designed necklace.",
         "price": '149',
         "description": "purple_white mixed necklace with simplicity",
-        "face_pic": "IMG-20250122-WA0019.jpg"
+        "face_pic": "IMG-20250117-WA0019.jpg"
     },
 {
         "id": 'mxnk11',
@@ -190,6 +190,15 @@ raw_product = [
         "description": "gives righ and classy vibes.",
         "face_pic": "IMG-20250117-WA0021.jpg"#
     },
+{
+        "id": 'sdnk04',
+        "name": "purple_white_transparent mixed necklace.",
+        "price": '179',
+        "description": "gives righ and classy vibes.",
+        "face_pic": "IMG-20250117-WA0021.jpg"#
+    },
+
+    
 ]
 
 
