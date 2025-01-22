@@ -186,7 +186,7 @@ def main():# Main function to run the app,Initialize session state for page navi
                 a,b,c = st.columns(3)
                 a.markdown(f'<h4 style="color:#e86d8a;">| {categories[i]} |</h2>',unsafe_allow_html=True)
                 a.markdown('<h3 style="color:pink;">starting at just *₹99*</h3>',unsafe_allow_html=True)
-                if c.button(" Shop  Now ",key = f"shop {categories[i]}"):
+                if c.button(" See more ",key = f"shop {categories[i]}"):
                     st.session_state.category = categories[i]
                     navigate('product_list')
                 st.divider()
