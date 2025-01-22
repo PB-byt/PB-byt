@@ -1,4 +1,3 @@
-
 raw_product = [
     # for bags use "bg" tag, "acs" for accessories,hd - is for bracelet, nk is for necklace
     {
@@ -16,7 +15,7 @@ raw_product = [
         "face_pic": "IMG-20241214-WA0002.jpg"
     },
     {
-        "id": 'mxnk03',
+        "id": 'mxnk01',
         "name": "blue trio necklace",
         "price": 169,
         "description": "wearable with any classy looks.",
@@ -24,70 +23,70 @@ raw_product = [
         "face_pic": "IMG-20241214-WA0003.jpg"
     },
     {
-        "id": 'mxhd05',
+        "id": 'mxhd03',
         "name": "pink-white bracelet",
         "price": 129,
         "description": "simple though elegant.",
         "face_pic":"IMG-20241214-WA0001.jpg"
     },
     {
-        "id": 'mxnk06',
+        "id": 'mxnk02',
         "name": "red-white necklace",
         "price": 109,
         "description": "charms of red with simplicity of white",
         "face_pic": "IMG-20241214-WA0004.jpg"
     },
     {
-        "id": 'mxnk07',
+        "id": 'mxnk03',
         "name": "pink rock necklace",
         "price": 99,
         "description": "added pink gradient rock for added beauty",
         "face_pic": "IMG-20241214-WA0000.jpg"
     },
     {
-        "id": 'mxac08',
+        "id": 'mxac01',
         "name": "pink rock necklace",
         "price": 99,
         "description": "added pink gradient rock for added beauty",
         "face_pic": "IMG-20250116-WA0007.jpg"
     },
     {
-        "id": 'mxnk09',
+        "id": 'mxnk04',
         "name": "pink rock necklace",
         "price": 99,
         "description": "added pink gradient rock for added beauty",
         "face_pic": "IMG-20250116-WA0008.jpg"
     },
     {
-        "id": 'mxac10',
+        "id": 'mxac02',
         "name": "pink rock necklace",
         "price": 99,
         "description": "added pink gradient rock for added beauty",
         "face_pic": "IMG-20250116-WA0009.jpg"
     },
     {
-        "id": 'mxac11',
+        "id": 'sdac03',
         "name": "key-chains",
         "price": 99,
         "description": "added pink gradient rock for added beauty",
         "face_pic": "IMG-20250116-WA0010.jpg"
     },
     {
-        "id": 'mxac12',
+        "id": 'sdac04',
         "name": "key-chains",
         "price": 99,
         "description": "added pink gradient rock for added beauty",
         "face_pic": "IMG-20250117-WA0018.jpg"
     },
     {
-        "id": 'mxbg13',
+        "id": 'sdbg04',
         "name": "pearl beeds bag",
         "price": '__',
         "description": "added pink gradient rock for added beauty",
         "face_pic": "IMG-20250116-WA0003.jpg"
     },
 {
-        "id": 'mxbg14',
+        "id": 'sdbg06',
         "name": "pearl beeds bag",
         "price": '__',
         "description": "added pink gradient rock for added beauty",
@@ -101,36 +100,99 @@ raw_product = [
         "face_pic": "IMG-20250116-WA0001.jpg"
     },
 {
-        "id": 'mxbg16',
+        "id": 'sdbg07',
         "name": "pearl beeds bag",
         "price": '__',
         "description": "added pink gradient rock for added beauty",
         "face_pic": "IMG-20250116-WA0005.jpg"
     },
 {
-        "id": 'mxbg17',
+        "id": 'sdbg08',
         "name": "pearl beeds bag",
         "price": '__',
         "description": "added pink gradient rock for added beauty",
         "face_pic": "IMG-20250116-WA0002.jpg"
     },
 {
-        "id": 'mxbg18',
+        "id": 'sdbg09',
         "name": "pearl beeds bag",
         "price": '__',
         "description": "added pink gradient rock for added beauty",
         "face_pic": "image_search_1737177523515.jpg"
     },
-# {
-#         "id": 'mxac19',
-#         "name": "pearl beeds bag",
-#         "price": '__',
-#         "description": "added pink gradient rock for added beauty",
-#         "face_pic": "image_search_1737177523515.jpg"
-#     },
-
-
+{
+        "id": 'mxnk05',
+        "name": "red_white charm necklace.",
+        "price": '99',
+        "description": "red and white mixed charm,perfect fit with aesthetic looks.",
+        "face_pic": "IMG-20250117-WA0033.jpg"
+    },
+{
+        "id": 'sdnk01',
+        "name": "elegant white long necklace.",
+        "price": '139',
+        "description": "pure multi size white beed piece , ideal with tradional\profesional looks ",
+        "face_pic": "IMG-20250117-WA0032.jpg"
+    },
+{
+        "id": 'mxnk06',
+        "name": "purple_white mixed necklace.",
+        "price": '149',
+        "description": "purple_white mixed necklace with simplicity",
+        "face_pic": "IMG-20250117-WA0028.jpg"
+    },
+{
+        "id": 'mxnk07',
+        "name": "three row multicolor piece.",
+        "price": '249',
+        "description": "trio cord for bold traditional looks, also wearable with classical dance suits.",
+        "face_pic": "IMG-20250117-WA0027.jpg"
+    },
+{
+        "id": 'mxnk08',
+        "name": "multi chain white necklace.",
+        "price": '279',
+        "description": "multiple mixed white chains with beautyful size sequence.",
+        "face_pic": "IMG-20250117-WA0026.jpg"
+    },
+{
+        "id": 'mxnk09',
+        "name": "purple_white mix butterfly necklace.",
+        "price": '129',
+        "description": "purple_white mixed necklace with designed lines & butterfly.",
+        "face_pic": "IMG-20250117-WA0031.jpg"
+    },
+{
+        "id": 'sdnk02',
+        "name": "white long necklace.",
+        "price": '70',
+        "description": "same sizes beed chain",
+        "face_pic": "IMG-20250117-WA0028.jpg"
+    },
+{
+        "id": 'mxnk10',
+        "name": "transparent_white beed mixed designed necklace.",
+        "price": '149',
+        "description": "purple_white mixed necklace with simplicity",
+        "face_pic": "IMG-20250122-WA0019.jpg"
+    },
+{
+        "id": 'mxnk11',
+        "name": "blue trio white added mixed bracelate.",
+        "price": '169',
+        "description": "purple_white mixed necklace with simplicity",
+        "face_pic": "IMG-20250117-WA0020(01).jpg"
+    },
+{
+        "id": 'mxnk12',
+        "name": "purple_white_transparent mixed necklace.",
+        "price": '179',
+        "description": "gives righ and classy vibes.",
+        "face_pic": "IMG-20250117-WA0021.jpg"#
+    },
 ]
+
+
 import streamlit as st,math,time
 # head ={'API_key' : '6716e49d6e0b4d39e2ba5843a050a4db66be2dd2e32a76b94e23e7e9ca748f91'}
 def navigate(page):  # Define navigation function
