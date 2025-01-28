@@ -363,12 +363,15 @@ def main():# Main function to run the app,Initialize session state for page navi
     with tab_c:
         st.header('||◌Where Your Choice and Our Precision meets __')
         st.divider()
+        st.image("https://raw.githubusercontent.com/PB-byt/PB-byt/main/20250128_215219 (1).jpg")
         st.markdown(''':rainbow[◌ Mail us at_]''')
         st.markdown(''':blue-background[drjewels99@gmail.com]''')
+        st.image("https://raw.githubusercontent.com/PB-byt/PB-byt/main/20250128_215346.jpg")
         st.divider()
         st.subheader("※This page is designed for custom products only,if want to place a order: ")
         st.caption('◈Just mail us on given email address given above with a photo and specific details you want.')
         st.caption('◈We will reach you within a few hours.')
+        st.image("https://raw.githubusercontent.com/PB-byt/PB-byt/main/20250128_215625.jpg")
         st.write('happy shoping 🤗')
 
 if "load_state" not in st.session_state:
