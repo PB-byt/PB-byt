@@ -81,35 +81,35 @@ raw_product = [
     {
         "id": 'sdbg04',
         "name": "pearl beeds bag",
-        "price": '__',
-        "description": "added pink gradient rock for added beauty",
+        "price": '249',
+        "description": ""white pearl beed hand bag,METAL WIRE BASED.FULLY CUSTOMIZABLE",
         "face_pic": "IMG-20250116-WA0003.jpg"
     },
 {
         "id": 'sdbg06',
         "name": "pearl beeds bag",
-        "price": '__',
-        "description": "added pink gradient rock for added beauty",
+        "price": '--',
+        "description": "white pearl beed hand bag,METAL WIRE BASED.FULLY CUSTOMIZABLE",
         "face_pic": "IMG-20250116-WA0004.jpg"
     },
 {
-        "id": 'mxbg15',
+        "id": 'sdbg00',
         "name": "pearl beeds bag",
-        "price": '__',
-        "description": "added pink gradient rock for added beauty",
+        "price": '299',
+        "description": "white pearl beed hand bag,METAL WIRE BASED.FULLY CUSTOMIZABLE.For added beauty",
         "face_pic": "IMG-20250116-WA0001.jpg"
     },
 {
         "id": 'sdbg07',
         "name": "pearl beeds bag",
-        "price": '__',
-        "description": "added pink gradient rock for added beauty",
+        "price": '999',
+        "description": "white pearl beed hand bag,METAL WIRE BASED.FULLY CUSTOMIZABLE.For added beauty",
         "face_pic": "IMG-20250116-WA0005.jpg"
     },
 {
         "id": 'sdbg08',
         "name": "pearl beeds bag",
-        "price": '__',
+        "price": '699',
         "description": "added pink gradient rock for added beauty",
         "face_pic": "IMG-20250116-WA0002.jpg"
     },
@@ -188,17 +188,36 @@ raw_product = [
         "name": "purple_white_transparent mixed necklace.",
         "price": '179',
         "description": "gives righ and classy vibes.",
-        "face_pic": "IMG-20250117-WA0021.jpg"#
+        "face_pic": "IMG-20250117-WA0021.jpg",
     },
 {
         "id": 'sdnk04',
         "name": "purple_white_transparent mixed necklace.",
         "price": '179',
         "description": "gives righ and classy vibes.",
-        "face_pic": "IMG-20250117-WA0021.jpg"#
+        "face_pic": "IMG-20250117-WA0021.jpg",
     },
-
-    
+{
+        "id": 'sdbg10',
+        "name": "pearls beed bag.",
+        "price": '799',
+        "description": "white pearl beed hand bag,METAL WIRE BASED.FULLY CUSTOMIZABLE.For added beauty.",
+        "face_pic": "Screenshot_20250130_083627_WhatsApp.jpg",
+    },
+{
+        "id": 'sdbg11',
+        "name": "white pearls beed bag.",
+        "price": '799',
+        "description": "white pearl beed hand bag,METAL WIRE BASED.FULLY CUSTOMIZABLE.For added beauty.",
+        "face_pic": "IMG-20250130-WA0000.jpg",
+    },
+{
+        "id": 'sdbg12',
+        "name": "white pearls beed bag.",
+        "price": '899',
+        "description": "white pearl beed hand bag,METAL WIRE BASED.FULLY CUSTOMIZABLE.For added beauty.",
+        "face_pic": "IMG-20250130-WA0003.jpg",
+    },
 ]
 
 
