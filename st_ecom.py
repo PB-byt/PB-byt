@@ -88,7 +88,7 @@ raw_product = [
 {
         "id": 'sdbg06',
         "name": "pearl beeds bag",
-        "price": '--',
+        "price": '649',
         "description": "white pearl beed hand bag,METAL WIRE BASED.FULLY CUSTOMIZABLE",
         "face_pic": "IMG-20250116-WA0004.jpg"
     },
@@ -110,14 +110,14 @@ raw_product = [
         "id": 'sdbg08',
         "name": "pearl beeds bag",
         "price": '699',
-        "description": "added pink gradient rock for added beauty",
+        "description": "white pearl beed hand bag,METAL WIRE BASED.FULLY CUSTOMIZABLE.For added beauty",
         "face_pic": "IMG-20250116-WA0002.jpg"
     },
 {
         "id": 'sdbg09',
         "name": "pearl beeds bag",
-        "price": '699',
-        "description": "added pink gradient rock for added beauty",
+        "price": '699' ,
+        "description": "white pearl beed hand bag,METAL WIRE BASED.FULLY CUSTOMIZABLE.For added beauty",
         "face_pic": "image_search_1737177523515.jpg"
     },
 {
