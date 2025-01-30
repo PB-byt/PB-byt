@@ -82,7 +82,7 @@ raw_product = [
         "id": 'sdbg04',
         "name": "pearl beeds bag",
         "price": '249',
-        "description": ""white pearl beed hand bag,METAL WIRE BASED.FULLY CUSTOMIZABLE",
+        "description": "white pearl beed hand bag,METAL WIRE BASED.FULLY CUSTOMIZABLE",
         "face_pic": "IMG-20250116-WA0003.jpg"
     },
 {
