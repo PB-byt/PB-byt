@@ -46,7 +46,7 @@ raw_product = [
     {
         "id": 'mxac01',
         "name": "pink rock necklace",
-        "price": 99,
+        "price": 79,
         "description": "added pink gradient rock for added beauty",
         "face_pic": "IMG-20250116-WA0007.jpg"
     },
@@ -67,8 +67,8 @@ raw_product = [
     {
         "id": 'sdac03',
         "name": "key-chains",
-        "price": 99,
-        "description": "added pink gradient rock for added beauty",
+        "price": 49,
+        "description": "Aesthetic metal wire based durable pearls glassy key chain",
         "face_pic": "IMG-20250116-WA0010.jpg"
     },
     {
@@ -116,7 +116,7 @@ raw_product = [
 {
         "id": 'sdbg09',
         "name": "pearl beeds bag",
-        "price": '__',
+        "price": '699',
         "description": "added pink gradient rock for added beauty",
         "face_pic": "image_search_1737177523515.jpg"
     },
@@ -218,6 +218,20 @@ raw_product = [
         "description": "white pearl beed hand bag,METAL WIRE BASED.FULLY CUSTOMIZABLE.For added beauty.",
         "face_pic": "IMG-20250130-WA0003.jpg",
     },
+{
+        "id": 'sdac05',
+        "name": "white pearls beed bag.",
+        "price": '79',
+        "description": "aesthetic metal wire based durable pearls glassy key chain.",
+        "face_pic": "IMG-20250116-WA0008.jpg",
+    },
+{
+        "id": 'mxhd04',
+        "name": "hand band.",
+        "price": '79',
+        "description": "light weight pearl beed hand band.",
+        "face_pic": "IMG-20250127-WA0003.jpg",
+},
 ]
 
 
