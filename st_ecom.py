@@ -220,15 +220,15 @@ raw_product = [
     },
 {
         "id": 'sdac05',
-        "name": "white pearls beed bag.",
+        "name": "aesthetic pearl beed key chain.",
         "price": '79',
         "description": "aesthetic metal wire based durable pearls glassy key chain.",
         "face_pic": "IMG-20250116-WA0008.jpg",
     },
 {
         "id": 'mxhd04',
-        "name": "hand band.",
-        "price": '79',
+        "name": "durable hand band.",
+        "price": '129',
         "description": "light weight pearl beed hand band.",
         "face_pic": "IMG-20250127-WA0003.jpg",
 },
